@@ -6221,3 +6221,6 @@ payload:
 
   #华文电视
   - DOMAIN-SUFFIX,ocnttv.com
+
+  # Private Tracker
+  - DOMAIN-KEYWORD,tracker
