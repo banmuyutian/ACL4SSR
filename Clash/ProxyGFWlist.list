@@ -6223,3 +6223,7 @@ DOMAIN-SUFFIX,ocnttv.com
 
 # Private Tracker
 DOMAIN-KEYWORD,tracker
+
+# PCCW
+DOMAIN-SUFFIX,pccw.com
+
