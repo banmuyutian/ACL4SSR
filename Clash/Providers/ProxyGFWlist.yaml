@@ -22,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,tumbex.com
   - DOMAIN-SUFFIX,twdvd.com
   - DOMAIN-SUFFIX,unsplash.com
+  - DOMAIN-SUFFIX,msftconnecttest.com
 
   # 国外域名
   - DOMAIN-SUFFIX,eu
