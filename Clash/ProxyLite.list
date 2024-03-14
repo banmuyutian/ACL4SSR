@@ -472,3 +472,5 @@ DOMAIN-SUFFIX,ocnttv.com
 
 # Private Tracker
 DOMAIN-KEYWORD,tracker
+
+- DOMAIN-SUFFIX,wise.com,DIRECT
