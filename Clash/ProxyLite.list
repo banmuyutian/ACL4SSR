@@ -473,8 +473,3 @@ DOMAIN-SUFFIX,ocnttv.com
 # Private Tracker
 DOMAIN-KEYWORD,tracker
 
-DOMAIN-SUFFIX,wise.com,DIRECT
-DOMAIN-SUFFIX,ifastgb.com,DIRECT
-DOMAIN-SUFFIX,binance.com,DIRECT
-DOMAIN-SUFFIX,bnbstatic.com,DIRECT
-DOMAIN-SUFFIX,okx.com,DIRECT
